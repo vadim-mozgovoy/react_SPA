@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react_SPA/static/css/main.5d437d6a.css",
+    "main.js": "/react_SPA/static/js/main.1c784a91.js",
+    "static/js/787.14fe134e.chunk.js": "/react_SPA/static/js/787.14fe134e.chunk.js",
+    "static/media/home_page.jpeg": "/react_SPA/static/media/home_page.da002aa530333b02b666.jpeg",
+    "static/media/background.jpg": "/react_SPA/static/media/background.0a00d8959eea33e571c5.jpg",
+    "static/media/Теодор.jpg": "/react_SPA/static/media/Теодор.3094303496b6c7187819.jpg",
+    "static/media/cursor_logo.png": "/react_SPA/static/media/cursor_logo.9d6231da6419d70350bc.png",
+    "static/media/bootstrap-icons.woff?": "/react_SPA/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/react_SPA/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/barney.jpg": "/react_SPA/static/media/barney.60c1797b5e7698945368.jpg",
+    "static/media/lilya.jpeg": "/react_SPA/static/media/lilya.d3d376fa5157386add97.jpeg",
+    "static/media/анонимус.jpg": "/react_SPA/static/media/анонимус.50cad42f807b3ceda508.jpg",
+    "static/media/robin1.jpeg": "/react_SPA/static/media/robin1.9a4127cb1cb2699a75ea.jpeg",
+    "static/media/Маршен.jpg": "/react_SPA/static/media/Маршен.974973de24551b8fe94e.jpg",
+    "static/media/Checkmark.svg": "/react_SPA/static/media/Checkmark.0718be5e029ba425346b1003dfe00644.svg",
+    "static/media/heart-regular.svg": "/react_SPA/static/media/heart-regular.6d06655ea6c752bd88512e51340ec81c.svg",
+    "static/media/comment-regular.svg": "/react_SPA/static/media/comment-regular.62cfb0d232e521502699465002ce2612.svg",
+    "static/media/arrow-up-from-bracket-solid.svg": "/react_SPA/static/media/arrow-up-from-bracket-solid.6b046dec14299ab6bef9989a6c7287d0.svg",
+    "index.html": "/react_SPA/index.html",
+    "static/media/angle-down-solid.svg": "/react_SPA/static/media/angle-down-solid.4e67b88abf70a8aa668b72a65f53ce81.svg",
+    "main.5d437d6a.css.map": "/react_SPA/static/css/main.5d437d6a.css.map",
+    "main.1c784a91.js.map": "/react_SPA/static/js/main.1c784a91.js.map",
+    "787.14fe134e.chunk.js.map": "/react_SPA/static/js/787.14fe134e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d437d6a.css",
+    "static/js/main.1c784a91.js"
+  ]
+}
