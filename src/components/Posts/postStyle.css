@@ -1,0 +1,136 @@
+section{
+    margin: 30px;
+}
+.container {
+    width: 620px;
+    height: 400px;
+    background-color: #15202b;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 10px;
+    color: white;
+}
+
+.round-img {
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    margin-top: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.right-side {
+    width: 550px;
+    margin-left: 5px;
+}
+
+.content-tittle {
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.content-main-title {
+    color: #fff;
+    display: flex;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.author-name {
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.author-date {
+    color: grey;
+    cursor: pointer;
+}
+
+.author-angle-down {
+    width: 16px;
+    height: 16px;
+}
+
+.author-angle-down:hover {
+    color: #fff;
+    cursor: pointer;
+}
+
+.content-main-img {
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.content-footer-icons {
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+    margin-left: 20px;
+    color: grey;
+
+}
+
+.icon-check {
+    width: 20px;
+    height: 20px;
+    color: white;
+    padding: 0 5px 0 5px;
+    filter: brightness(0) invert(1);
+}
+
+.icon-angel {
+    width: 24px;
+    height: 24px;
+    padding: 10px 10px 0 5px;
+    filter: brightness(0) invert(0.6);
+}
+
+.share-icon > img {
+    width: 24px;
+    height: 24px;
+}
+
+.icon-angel:hover {
+    filter: brightness(0) invert(1);
+}
+
+.comment-icon, .repost-icon, .like-icon, .share-icon {
+    margin: 10px 0 0 0;
+    padding-bottom: 10px;
+    display: flex;
+    flex-flow: column;
+}
+
+.comment-icon:hover {
+    filter: brightness(0) invert(1);
+    cursor: pointer;
+}
+
+.repost-icon:hover {
+    filter: brightness(0) invert(1);
+    cursor: pointer;
+}
+
+.like-icon:hover {
+    filter: brightness(0) invert(1);
+    cursor: pointer;
+}
+
+.share-icon:hover {
+    filter: brightness(0) invert(1);
+    cursor: pointer;
+}
+
+.icon {
+    filter: brightness(0) invert(0.6);
+    height: 24px;
+}
+

@@ -1,0 +1,10 @@
+.photos{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
+.photos img{
+    width: 22rem;
+    height: 20rem;
+    margin: 2rem;
+}
